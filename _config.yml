@@ -24,7 +24,8 @@ author:
   avatar           : "claire.png"
   name             : "Tan Sihan"
   pronouns         : "Hi! I am Tan Sihan"  
-  bio              : " 你好! 我是谭斯涵/こんにちは、タンシカンです。"
+  bio              : " 你好! 我是谭斯涵。"
+  bio 　　　　　　　:"こんにちは、タンシカンです。"
   location         : "Tokyo, Japan"
   #employer         : "Tokyo Institute of Technology"
   #uri              : https://claire874.github.io/
