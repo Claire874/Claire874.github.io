@@ -23,9 +23,8 @@ author:
   # Biographic information
   avatar           : "claire.png"
   name             : "Tan Sihan"
-  pronouns         : "Hi! I am Tan Sihan"  
-  bio              : " 你好! 我是谭斯涵。"
-  bio 　　　　　　　: "こんにちは、タンシカンです。"
+  pronouns         : "谭斯涵/タンシカン"  
+  bio              : " Multi-modal AI researcher"
   location         : "Tokyo, Japan"
   #employer         : "Tokyo Institute of Technology"
   #uri              : https://claire874.github.io/
