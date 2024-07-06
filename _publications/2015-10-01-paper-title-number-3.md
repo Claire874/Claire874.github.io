@@ -9,3 +9,8 @@ venue: 'Proceedings of the LREC-COLING 2024 11th Workshop on the Representation 
 paperurl: 'https://aclanthology.org/2024.signlang-1.41.pdf'
 #citation: 'Tan Sihan, Miyazaki Taro, Itoyama Katsutoshi, Nakadai Kazuhiro'
 ---
+**SEDA: Simple and Effective Data Augmentation for Sign Language Understanding**
+
+*Tan Sihan, Miyazaki Taro, Itoyama Katsutoshi, Nakadai Kazuhiro.*
+
+*Proceedings of the LREC-COLING 2024 11th Workshop on the Representation and Processing of Sign Languages: Evaluation of Sign Language Resources*
