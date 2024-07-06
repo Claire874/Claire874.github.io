@@ -41,9 +41,9 @@
 @import "print";
 
 .archive__item-title a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .archive__item-title a:hover {
-  text-decoration: none;
+  text-decoration: none !important;
 }
