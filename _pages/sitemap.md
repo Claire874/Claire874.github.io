@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <h2>Pages</h2>
-{% assign allowed_pages = "about-me,cv" | split: "," %}
+{% assign allowed_pages = "about,cv" | split: "," %}
 {% for page in site.pages %}
   {% assign slug = page.url | split: "/" | last %}
   {% if allowed_pages contains slug %}
