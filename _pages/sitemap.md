@@ -7,31 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-
-
 <h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
+{% assign allowed_pages = "about-me,cv" | split: "," %}
+{% for page in site.pages %}
+  {% assign slug = page.url | split: "/" | last %}
+  {% if allowed_pages contains slug %}
+    {% include archive-single.html %}
   {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
 {% endfor %}
+
+<h2>Publications</h2>
+{% for collection in site.collections %}
+  {% if collection.label == "publications" %}
+    {% for post in collection.docs %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+<h2>Talks</h2>
+{% for collection in site.collections %}
+  {% if collection.label == "talks" %}
+    {% for post in collection.docs %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
