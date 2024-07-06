@@ -12,7 +12,7 @@ title                    : "Tan Sihan"
 title_separator          : "-"
 name                     : &name "Tan Sihan"
 description              : &description "PhD student at Tokyo Tech"
-url                      : https://claire874.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : " https://claire874.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://claire874.github.io"
 
