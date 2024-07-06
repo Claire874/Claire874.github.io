@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{ {Claire874.github.io} }/files/Tan_Sihan_CV.pdf" width="700" height="800" type='application/pdf'>
+<embed src="Claire874.github.io/files/Tan_Sihan_CV.pdf" width="700" height="800" type='application/pdf'>
 
 
