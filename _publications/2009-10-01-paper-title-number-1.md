@@ -6,6 +6,6 @@ excerpt: '**Tan Sihan**, Khan Nabeela Khanum, Itoyama Katsutoshi, Nakadai Kazuhi
 date: 2023-08-28
 venue: '2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE'
 #slidesurl: 'http://academicpages.github.io/files/Improving_Sign_Language_Understanding_Introducing_Label_Smoothing.pdf'
-paperurl: '{{ site.baseurl }}/files/Improving_Sign_Language_Understanding_Introducing_Label_Smoothing.pdf'
+paperurl: 'http://Claire874.github.io/files/Improving_Sign_Language_Understanding_Introducing_Label_Smoothing.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
