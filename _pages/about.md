@@ -17,7 +17,7 @@ I come from China and am doing my adventures in Japan. I am a tarot lover (my fa
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
   <li>08/ 2024: I start work as a visiting researcher at NHK STRL.</li>
-  <li>03/ 2024: I graduate as the best graduate from Department of System and Control Engineering, Tokyo Tech!</li>
+  <li>03/ 2024: I graduate as the best graduate from Department of Systems and Control Engineering, Tokyo Tech!</li>
 
 </ul>
 
