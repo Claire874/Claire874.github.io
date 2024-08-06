@@ -16,7 +16,7 @@ I did my master's at Tokyo Tech where I graduated as [the Sole Best Graduate](ht
 I come from China and am doing my adventures in Japan. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br><br>
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
-  <li>08/ 2024: I start work as visiting researcher at NHK STRL.</li>
+  <li>08/ 2024: I start work as a visiting researcher at NHK STRL.</li>
   <li>03/ 2024: I graduate as the best graduate from Department of System and Control Engineering, Tokyo Tech!</li>
 
 </ul>
