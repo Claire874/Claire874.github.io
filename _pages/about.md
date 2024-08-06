@@ -15,9 +15,9 @@ I did my master's at Tokyo Tech where I graduated as [the Sole Best Graduate](ht
 
 I come from China and am doing my adventures in Japan. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br><br>
 <b> Recent News </b> <br>
-<ul>
+<ul style="font-size: smaller;">
   <li>08/ 2024: I started work as a visiting researcher at NHK STRL.</li>
-  <li>05/ 2024: I presented two of our works for sign language translation at Signlang workshop, LREC-Coling 2024, Torino, Italy.
+  <li>05/ 2024: I presented two of our works for sign language translation at Signlang workshop, LREC-Coling 2024, Torino, Italy.</li>
   <li>03/ 2024: I graduated as the best graduate from Department of Systems and Control Engineering, Tokyo Tech!</li>
 </ul>
 
