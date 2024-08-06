@@ -17,7 +17,7 @@ I come from China and am doing my adventures in Japan. I am a tarot lover (my fa
 <b> Recent News </b> <br>
 <ul>
   <li>08/ 2024: I started work as a visiting researcher at NHK STRL.</li>
-  <li>05/ 2024: I presented two of our works for sign language translation at Signlang workshop LREC-Coling 2024, Torino, Italy.
+  <li>05/ 2024: I presented two of our works for sign language translation at Signlang workshop, LREC-Coling 2024, Torino, Italy.
   <li>03/ 2024: I graduated as the best graduate from Department of Systems and Control Engineering, Tokyo Tech!</li>
 
 </ul>
