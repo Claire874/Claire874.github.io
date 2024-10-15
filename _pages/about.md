@@ -15,7 +15,7 @@ I did my master's at Tokyo Tech where I graduated as [the Sole Best Graduate](ht
 
 I come from China and am doing my adventures in Japan. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br>
 <b> I welcome collaboration; contact me, please :) </b> <br><br>
-In particulary, I am intereseted in the following topics (not limited):<br>
+In particular, I am intereseted in the following topics (not limited):<br>
 <li> Gloss-free for sign language translation (SLT). </li>
 <li> Online SLT for human and robot interaction. </li>
 <li> Exploring speech/ language technology for SLT. </li><br><br>
