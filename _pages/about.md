@@ -18,7 +18,7 @@ I come from China and am doing my adventures in Japan. I am a tarot lover (my fa
 In particulary I am intereseted in the following topic:<br>
 <li> Gloss-free for sign language translation (SLT). </li>
 <li> Online SLT for human and robot interaction. </li>
-<li> Exploring speech/ language technology for SLT. </li>
+<li> Exploring speech/ language technology for SLT. </li><br><br>
 
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
