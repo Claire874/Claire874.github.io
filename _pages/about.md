@@ -11,7 +11,7 @@ Hi, there! I am a PhD student at [Institute of Science Tokyo (formerly Tokyo Tec
 
 
 
-I did my master's at Tokyo Tech where I graduated as [the Sole Best Graduate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/QXgwK3JENW1yRGZURkJML0RIVXphZz09) from Systems and Control Engineering, and I did my undergrad at [Dalian University of Technology](https://en.dlut.edu.cn/) advised by [Fan Xin](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=en) and graduated as one of the outstanding graduates.
+I did my master's at Tokyo Tech where I graduated as [the Best Graduate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/QXgwK3JENW1yRGZURkJML0RIVXphZz09) from Systems and Control Engineering, and I did my undergrad at [Dalian University of Technology](https://en.dlut.edu.cn/) advised by [Fan Xin](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=en) and graduated as one of the outstanding graduates.
 
 I come from China and am doing my adventures in Japan. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br>
 <b> I welcome collaboration; contact me, please :) </b> <br><br>
