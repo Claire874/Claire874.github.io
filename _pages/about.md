@@ -15,13 +15,14 @@ I did my master's at Tokyo Tech where I graduated as [the Sole Best Graduate](ht
 
 I come from China and am doing my adventures in Japan. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br>
 <b> I welcome collaboration; contact me, please :) </b> <br><br>
-In particular, I am intereseted  but not limited in the following topics:<br>
+I am intereseted  but not limited in the following topics:<br>
 <li> Gloss-free for sign language translation (SLT). </li>
 <li> Online SLT for human and robot interaction. </li>
 <li> Exploring speech/ language technology for SLT. </li><br><br>
 
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
+  <li>😊11/ 2024: I will visit the [Language, Technology, and Accessibility Group](https://www.cl.uzh.ch/en/research-groups/accessibility.html) in the Department of Computational Linguistics at the UZurich next fall as a guest researcher. See you in Switzerland!</li>
   <li>😊08/ 2024: I started working as a visiting researcher at NHK STRL.</li>
   <li>🎉05/ 2024: I presented two of our works for sign language translation at Signlang workshop, LREC-Coling 2024, Torino, Italy.</li>
   <li>🎉03/ 2024: I graduated as the best graduate from Department of Systems and Control Engineering, Tokyo Tech!</li>
