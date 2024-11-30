@@ -22,6 +22,7 @@ I am intereseted  but not limited in the following topics:<br>
 
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
+  <li>🎉11/ 2024: Our paper about CTC reodering for sign language translation has been accepted by COLING25! See you in Abu Dahbi!.</li>
   <li>😊08/ 2024: I started working as a visiting researcher at NHK STRL.</li>
   <li>🎉05/ 2024: I presented two of our works for sign language translation at Signlang workshop, LREC-Coling 2024, Torino, Italy.</li>
   <li>🎉03/ 2024: I graduated as the best graduate from Department of Systems and Control Engineering, Tokyo Tech!</li>
