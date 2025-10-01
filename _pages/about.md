@@ -22,13 +22,14 @@ I am interested  but not limited to the following topics:<br>
 
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
+  <li>🎉09/ 2025: I attended the SLTAT workshop in Berlin! So nice to meet sign language researchers worldwide!</li>
   <li>🎉05/ 2025: Our paper about multilingual sign language translation has been accepted to ACL2025 Main! Let's catch up in Vienna! </li>
-  <li>😊05/ 2025: I will join in Language, Technology and Accessibility Group at UZurich as a visiting researcher from 08.2025! </li>
+  <li>😊05/ 2025: I will join the Language, Technology and Accessibility Group at UZurich as a visiting researcher from 08.2025! </li>
   <li>🎉12/ 2024: Our survey paper:  A Review of Deep Learning-Based Approaches to Sign Language Processing is out! </li>
   <li>🎉12/ 2024: Our paper about CTC reordering for sign language translation has been accepted to COLING25! See you in Abu Dhabi!</li>
   <li>😊08/ 2024: I started working as a visiting researcher at NHK STRL.</li>
   <li>🎉05/ 2024: I presented two of our works for sign language translation at Signlang workshop, LREC-Coling 2024, Torino, Italy.</li>
-  <li>🎉03/ 2024: I graduated as the best graduate from Department of Systems and Control Engineering, Tokyo Tech!</li>
+  <li>🎉03/ 2024: I graduated as the best graduate from the Department of Systems and Control Engineering, Tokyo Tech!</li>
 </ul>
 
 
