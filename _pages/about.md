@@ -13,7 +13,7 @@ Hi, there! I am a PhD student at [Institute of Science Tokyo (formerly Tokyo Tec
 
 I did my master's at Tokyo Tech where I graduated as [the Best Graduate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/QXgwK3JENW1yRGZURkJML0RIVXphZz09) from Systems and Control Engineering, and I did my undergrad at [Dalian University of Technology](https://en.dlut.edu.cn/) advised by [Fan Xin](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=en) and graduated as one of the outstanding graduates.
 
-I am from China and on an adventure in Switzerland. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br>
+I am from China and on an adventure in Japan and Switzerland. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br>
 <b> I welcome collaboration; contact me, please :) </b> <br><br>
 I am interested  but not limited to the following topics:<br>
 <li> Gloss-free for sign language translation (SLT). </li>
