@@ -22,6 +22,7 @@ I am interested  but not limited to the following topics:<br>
 
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
+  <li>😊11/ 2025: I just gave the first lecture on SLT in my life at UZH! </li>
   <li>🎉09/ 2025: I attended the SLTAT workshop in Berlin! So nice to meet sign language researchers worldwide!</li>
   <li>🎉05/ 2025: Our paper about multilingual sign language translation has been accepted to ACL2025 Main! Let's catch up in Vienna! </li>
   <li>😊05/ 2025: I will join the Language, Technology and Accessibility Group at UZurich as a visiting researcher from 08.2025! </li>
