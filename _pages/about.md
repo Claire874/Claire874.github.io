@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am a PhD student at [Institute of Science Tokyo (formerly Tokyo Tech)](https://www.titech.ac.jp/english?), advised by [Nakadai Kazuhiro](https://scholar.google.fr/citations?user=SBBBYM8AAAAJ&hl=en) and affiliated with [Nakadai Lab](https://www.ra.sc.e.titech.ac.jp/en/), Systems and Control Engineering. I am interested in multi-modal AI, especially in Computer Vision (CV) and NLP for sign language translation. I was also a visiting researcher at [University of Zürich](https://www.cl.uzh.ch/en/research-groups/accessibility.html) with [Prof. Sarah Ebling](https://www.cl.uzh.ch/en/research-groups/accessibility/team/current-members/ebling.html). I previously visited [NHK Science & Technology Research Laboratories](https://www.nhk.or.jp/strl/english/vision/2_1.html), working on sign language technology.
+Hi, there! I am a PhD student at [Institute of Science Tokyo (formerly Tokyo Tech)](https://www.titech.ac.jp/english?), advised by [Nakadai Kazuhiro](https://scholar.google.fr/citations?user=SBBBYM8AAAAJ&hl=en) and affiliated with [Nakadai Lab](https://www.ra.sc.e.titech.ac.jp/en/), Systems and Control Engineering. I am interested in multi-modal AI, especially in Computer Vision (CV) and NLP for sign language processing. I was also a visiting researcher at [University of Zürich](https://www.cl.uzh.ch/en/research-groups/accessibility.html) with [Prof. Sarah Ebling](https://www.cl.uzh.ch/en/research-groups/accessibility/team/current-members/ebling.html). I previously visited [NHK Science & Technology Research Laboratories](https://www.nhk.or.jp/strl/english/vision/2_1.html), working on sign language technology.
 
 
 
