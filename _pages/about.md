@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am a PhD student at [Institute of Science Tokyo (formerly Tokyo Tech)](https://www.titech.ac.jp/english?), advised by [Nakadai Kazuhiro](https://scholar.google.fr/citations?user=SBBBYM8AAAAJ&hl=en) and affiliated with [Nakadai Lab](https://www.ra.sc.e.titech.ac.jp/en/), Systems and Control Engineering. I am interested in multi-modal AI, especially in Computer Vision (CV) and NLP for sign language processing. I was also a visiting researcher at [University of Zürich](https://www.cl.uzh.ch/en/research-groups/accessibility.html) with [Prof. Sarah Ebling](https://www.cl.uzh.ch/en/research-groups/accessibility/team/current-members/ebling.html). I previously visited [NHK Science & Technology Research Laboratories](https://www.nhk.or.jp/strl/english/vision/2_1.html), working on sign language technology.
+Hi, there! I am a PhD student at [Institute of Science Tokyo (formerly Tokyo Tech)](https://www.titech.ac.jp/english?), advised by [Nakadai Kazuhiro](https://scholar.google.fr/citations?user=SBBBYM8AAAAJ&hl=en) and affiliated with [Nakadai Lab](https://www.ra.sc.e.titech.ac.jp/en/), Systems and Control Engineering. I am interested in multi-modal AI. I am now a Research Scientist Intern at [Rakuten AI](https://ai.rakuten.co.jp/chat). I was a visiting researcher at [University of Zürich](https://www.cl.uzh.ch/en/research-groups/accessibility.html) with [Prof. Sarah Ebling](https://www.cl.uzh.ch/en/research-groups/accessibility/team/current-members/ebling.html). I previously visited [NHK Science & Technology Research Laboratories](https://www.nhk.or.jp/strl/english/vision/2_1.html), working on sign language technology.
 
 
 
@@ -16,9 +16,9 @@ I did my master's at Tokyo Tech where I graduated as [the Best Graduate](https:/
 I am from China and on an adventure in Japan and Switzerland. I am a tarot lover (my favorite card is [the world](https://en.wikipedia.org/wiki/The_World_%28tarot_card%29)) and a newbie in Pilates.<br>
 <b> I welcome collaboration; contact me, please :) </b> <br><br>
 I am interested  but not limited to the following topics:<br>
-<li> Gloss-free for sign language translation (SLT). </li>
-<li> Online SLT for human and robot interaction. </li>
-<li> Exploring speech/ language technology for SLT. </li><br><br>
+  <li> Multi-modality Generation for Spoken text & Sign Motions. </li>
+  <li> Training sign language processing model at scale. </li>
+  <li> Exploring speech/ language technology for SLT. </li><br><br>
 
 <b> Recent News </b> <br>
 <ul style="font-size: smaller;">
